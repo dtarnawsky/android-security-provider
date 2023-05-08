@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">android-security-provider</string>
+    <string name="title_activity_main">android-security-provider</string>
+    <string name="package_name">android.security.provider</string>
+    <string name="custom_url_scheme">android.security.provider</string>
+</resources>

@@ -1,0 +1,7 @@
+{
+  "name": "android-security-provider",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
